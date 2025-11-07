@@ -11,7 +11,7 @@
   "dependencies": {
     "react": "19.2.0",
     "react-dom": "19.2.0",
-    "next": "16.0.1"
+    "next": "http://vercel-packages.vercel.app/next/commits/e5089d661bf7d93e9e2006db1582cf88098bda56/next"
   },
   "devDependencies": {
     "babel-plugin-react-compiler": "1.0.0",
